@@ -43,3 +43,7 @@ I love building responsive, sleek, and fast applications using modern technologi
 - 🧪 Testing, accessibility & performance tuning
 
 ---
+
+# :fire: My Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TudorMurariu&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorMurariu&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
